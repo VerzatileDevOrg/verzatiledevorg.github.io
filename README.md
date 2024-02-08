@@ -20,7 +20,7 @@ Currently active Repositories:
 ---
 
 1. [C Image Processor Application](https://github.com/VerzatileDevOrg/C_image_processing)
-2. [Programmers Handbook](https://github.com/VerzatileDevOrg/Programming_HandBook)
+2. [Programmers Handbook](https://verzatiledevorg.github.io/Programming_HandBook/)
 3. [DLLs in a folder Documentation](https://github.com/VerzatileDevOrg/Programming_HandBook)
 
 <br>
